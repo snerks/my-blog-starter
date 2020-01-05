@@ -1,17 +1,17 @@
 ---
-title: Gatsby Starter Blog
+title: Try The Gatsby Starter Blog
 date: "2020-01-05T10:56:03.284Z"
 description: "Use the Gatsby Starter Blog"
 ---
 
-Refer to this page, to use the
+Refer to [this page](https://www.gatsbyjs.org/starters/gatsbyjs/gatsby-starter-blog/) , to use the
 [Gatsby Starter Blog](https://www.gatsbyjs.org/starters/gatsbyjs/gatsby-starter-blog/) template.
 
 **Note**
 
 On Windows, look out for this gotcha:
 
-The Drive letter (e.g. "C") must be upper-case on Windows in the terminal (e.g. CMD).
+The Drive letter (e.g. "C") must be upper-case on Windows, when used in the terminal (e.g. `CMD.EXE`).
 
 `cd C:\`
 
